@@ -1,0 +1,13 @@
+<Mercury/>
+<Venus/>
+<Earth/>
+<Mars>
+<OrbitItem MainComboBoxId="2" ID="3" ComboBoxId="0" Location="42" Type="Astroid" Altitude="12442" Velocity="1640" AngularVelocity="21" OrbitTime="16" Acceleration="0"/>
+<OrbitItem MainComboBoxId="1" ID="2" ComboBoxId="0" Location="270" Type="Station" Altitude="1244" Velocity="3033" AngularVelocity="135" OrbitTime="2" Acceleration="2"/>
+<OrbitItem MainComboBoxId="0" ID="1" ComboBoxId="0" Location="49" Type="Satellite" Altitude="124" Velocity="3483" AngularVelocity="204" OrbitTime="1" Acceleration="3"/>
+</Mars>
+<Jupiter/>
+<Saturn/>
+<Uranus/>
+<Neptune/>
+<Pluto/>

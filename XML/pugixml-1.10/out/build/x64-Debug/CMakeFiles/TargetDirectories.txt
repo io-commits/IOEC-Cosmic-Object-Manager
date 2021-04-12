@@ -1,0 +1,6 @@
+C:/Users/Itai Ofir/Documents/לימודים/שנה ב/סמסטר א/מונחה עצמים/פרוייקט/SatelliteManagerFinal/XML/pugixml-1.10/out/build/x64-Debug/CMakeFiles/pugixml.dir
+C:/Users/Itai Ofir/Documents/לימודים/שנה ב/סמסטר א/מונחה עצמים/פרוייקט/SatelliteManagerFinal/XML/pugixml-1.10/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/Itai Ofir/Documents/לימודים/שנה ב/סמסטר א/מונחה עצמים/פרוייקט/SatelliteManagerFinal/XML/pugixml-1.10/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/Itai Ofir/Documents/לימודים/שנה ב/סמסטר א/מונחה עצמים/פרוייקט/SatelliteManagerFinal/XML/pugixml-1.10/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Itai Ofir/Documents/לימודים/שנה ב/סמסטר א/מונחה עצמים/פרוייקט/SatelliteManagerFinal/XML/pugixml-1.10/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Itai Ofir/Documents/לימודים/שנה ב/סמסטר א/מונחה עצמים/פרוייקט/SatelliteManagerFinal/XML/pugixml-1.10/out/build/x64-Debug/CMakeFiles/list_install_components.dir
